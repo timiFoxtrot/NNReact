@@ -1,0 +1,12 @@
+.card {
+  border: 1px solid #abc;
+  box-shadow: 4px 4px 5px #555;
+  padding: 10px;
+  max-width: 400px;
+  margin: 20px auto;
+  border-radius: 4px;
+}
+
+.card button {
+  background-color: #555;
+}
